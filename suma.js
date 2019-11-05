@@ -1,4 +1,4 @@
-function suma(a,b) {
+let suma=(a,b)=> {
 console.log(a+b)
 }
 
